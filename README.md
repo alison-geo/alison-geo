@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @alison-geo
-- 👀 I’m interested in geology, GIS, geoscience, environmental science, writing, video games, books
-- 🌱 I’m currently learning python, ArcGIS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in geology, GIS, geoscience, environmental science, environmental consulting, conservation and humanitarian efforts
+- 🌱 I’m currently learning Python and refreshing my ArcGIS skills
 
 <!---
 alison-geo/alison-geo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
